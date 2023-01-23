@@ -1,5 +1,5 @@
 ## Basic-Calculator
-### Hosted URL: https://633267f4b5ec6332cffd8169--relaxed-torrone-86f13b.netlify.app/
+### Hosted URL: https://calucater.netlify.app/
 - Basic Calculator using HTML CSS JS
 
 # Screenshot
